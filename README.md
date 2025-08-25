@@ -81,5 +81,19 @@ E neste caso para sempre quando for fazer a leitura das informações após decl
 
 Se caso for injetar os valores nas variáveis:
 ```C
-
+strcpy(ficha1.nome, "Breno Utimura");
+ficha1.cpf = 123456789;
+ficha1.sexo = 'M';
+ficha1.salario = 8523.28;
 ```
+
+Se caso for os valores quando o usuário for digitar:
+```C
+scanf("%d", &ficha1.cpf);
+scanf("%f", &ficha1.salario);
+scanf("%s", ficha1.nome);
+scanf("%c", &ficha1.sexo);
+```
+-----------------------------------------------------------------------------------------
+
+## Algoritmos Recursivos
