@@ -14,6 +14,3 @@ Com isso fazer um arquivo "README" para cada tema, assunto ou tópico da linguag
 - Fila;
 - Pilha;
 
------------------------------------------------------------------------------------------
-
-## Algoritmos Recursivos
